@@ -24,12 +24,9 @@ Run single test with:
 import logging as mod_logging
 import os as mod_os
 import time as mod_time
-import codecs as mod_codecs
-import copy as mod_copy
 import datetime as mod_datetime
 import random as mod_random
 import math as mod_math
-import sys as mod_sys
 import unittest as mod_unittest
 import xml.dom.minidom as mod_minidom
 
