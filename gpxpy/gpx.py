@@ -18,7 +18,6 @@ GPX related stuff
 
 import logging as mod_logging
 import math as mod_math
-import collections as mod_collections
 import copy as mod_copy
 import datetime as mod_datetime
 
